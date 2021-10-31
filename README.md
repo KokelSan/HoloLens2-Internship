@@ -15,6 +15,8 @@ But above all, this project allowed me to make **my first steps with the Unity g
 
 Besides, it also allowed me to **work totally on my own** on a project. It seemed complicated and scary at the beginning, because of the new technologies and softwares I had to use, but with time and a short period of adaptation it went totally fine and cool !
 
+You can take a look to my [internship report](Assets/Internship%20report%20(french).pdf) if you want !
+
 ## Gallery 🖼️
 Since the HoloLens enables to take screenshots and videos of what we see through its lens, I took some funny pictures of me and my skeletal friend ! (not during work hours I promise ! 😬)
 

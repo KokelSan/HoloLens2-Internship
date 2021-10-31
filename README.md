@@ -18,18 +18,17 @@ Besides, it also allowed me to **work totally on my own** on a project. It seeme
 ## Gallery 🖼️
 Since the HoloLens enables to take screenshots and videos of what we see through its lens, I took some funny pictures of me and my skeletal friend ! (not during work hours I promise ! 😬)
 
-|<img src="Assets/Me.jpeg" alt="Me testing HoloLens 2" >|<img src="Assets/WhoAreYou.png" alt="A skeleton a little bit to comfortable..." >|
+|<img src="Assets/Package.jpg" alt="A packaging..." >|<img src="Assets/Me.jpeg" alt="Me testing HoloLens 2 for the first time" >|
 :-------------------------:|:-------------------------:
-|HoloLens 2 is such an amazing technology|Who are you ?! What are you doing on my sofa ??|
+|When we received it, it was christmas at the lab !!|The first try of the helmet was impressive|
+
+|<img src="Assets/BlueEyesDev.jpg" alt="Me flexing" >|<img src="Assets/WhoAreYou.png" alt="A skeleton a little bit to comfortable..." >|
+:-------------------------:|:-------------------------:
+|I am not a white dragon but I have beautiful blue eyes|Who are you ?! What are you doing on my sofa ??|
 
 |<img src="Assets/IAmYourFather.jpg" alt="The Force is powerful on me..." >|<img src="Assets/HelloMyFriend.jpg" alt="Hello my friend" >|
 :-------------------------:|:-------------------------:
 |The Force is strong in this one...|Hey my friend ! It's been a while !!|
-
-|<img src="" alt="NEW PHOTO" >|<img src="" alt="NEW PHOTO" >|
-:-------------------------:|:-------------------------:
-|NEW PHOTO|NEW PHOTO|
-
 
 ## Demo video 🎥
 Here is a link to the demonstration video I showed the jury during my internship presentation.  

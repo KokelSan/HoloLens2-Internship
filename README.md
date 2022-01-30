@@ -15,7 +15,7 @@ But above all, this project allowed me to make **my first steps with the Unity g
 
 Besides, it also allowed me to **work totally on my own** on a project. It seemed complicated and scary at the beginning, because of the new technologies and softwares I had to use, but with time and a short period of adaptation it went totally fine and cool !
 
-You can take a look to my [internship report](Assets/Internship%20report%20(french).pdf) if you want !
+You can take a look to my [internship report](Assets/Internship%20report%20(french).pdf) if you want ! (written in French, English version coming soon)
 
 ## Gallery 🖼️
 Since the HoloLens enables to take screenshots and videos of what we see through its lens, I took some funny pictures of me and my skeletal friend ! (not during work hours I promise ! 😬)
@@ -34,8 +34,6 @@ Since the HoloLens enables to take screenshots and videos of what we see through
 
 ## Demo video 🎥
 Here is a link to the demonstration video I showed the jury during my internship presentation.  
-
-TODO: edit a little the video (subtitles, explanations, utc logo etc...), post it on youtube and link it here 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=NpEaa2P7qZI
 " target="_blank"><img src="http://img.youtube.com/vi/NpEaa2P7qZI/0.jpg" 

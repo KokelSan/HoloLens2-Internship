@@ -33,8 +33,8 @@ Since the HoloLens enables to take screenshots and videos of what we see through
 |The Force is strong in this one...|Hey my friend ! It's been a while !!|
 
 ## Demo video 🎥
-Here is a link to the demonstration video I showed the jury during my internship presentation.  
+Here is a link to the demonstration video I showed to the jury during my internship presentation.  
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=NpEaa2P7qZI
-" target="_blank"><img src="http://img.youtube.com/vi/NpEaa2P7qZI/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=uPnRG8wH2bg
+" target="_blank"><img src="http://img.youtube.com/vi/uPnRG8wH2bg/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
